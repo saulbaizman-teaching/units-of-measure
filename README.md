@@ -1,6 +1,6 @@
 # units of measure demo
 
-Nothing is located in the master branch. Instead, [switch to the other branches](https://github.com/saulbaizman-massart/units-of-measure/branches/stale) and view the commit history for annotations.
+Nothing is located in the production branch. Instead, [switch to the other branches](https://github.com/saulbaizman-teaching/units-of-measure/branches/all) and view the commit history for annotations.
 
 ## demo index
 
